@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I’m Shriya 👋
 
-<!--
-**Shriyaacodes/Shriyaacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year B.Tech student specializing in Artificial Intelligence & Machine Learning.  
+I enjoy working on applied ML problems, especially in speech processing and NLP, where systems need to be both accurate and explainable.
 
-Here are some ideas to get you started:
+Recently, I built an automatic speech alignment system using Montreal Forced Aligner, focusing on handling out-of-vocabulary words and analyzing phoneme-level improvements using Praat.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+- Speech Processing & Phonetics  
+- Natural Language Processing  
+- Applied Machine Learning  
+- AI systems that work beyond toy datasets  
+
+### Tools & Skills
+- Languages:Java,Python 
+- ML/NLP: Scikit-learn, NLP fundamentals, speech alignment  
+- Tools: Montreal Forced Aligner, Praat, Git, Conda, Linux  
+
+### What I care about
+I value clean data, reproducible pipelines, and understanding *why* a model behaves the way it does — not just getting outputs.
+
+📫 Reach me on LinkedIn: https://www.linkedin.com/in/shriya-vuppu
