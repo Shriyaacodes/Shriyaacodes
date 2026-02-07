@@ -16,7 +16,6 @@ Recently, I built an automatic speech alignment system using Montreal Forced Ali
 - ML/NLP: Scikit-learn, NLP fundamentals, speech alignment  
 - Tools: Montreal Forced Aligner, Praat, Git, Conda, Linux  
 
-### What I care about
-I value clean data, reproducible pipelines, and understanding *why* a model behaves the way it does not just getting outputs.
+
 
 📫 Reach me on LinkedIn: https://www.linkedin.com/in/shriya-vuppu
